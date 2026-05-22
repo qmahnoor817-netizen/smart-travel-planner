@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220275559574",
+    "project_id": "smart-travel-planner-1b556",
+    "storage_bucket": "smart-travel-planner-1b556.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220275559574:android:71b74424b1bf40be8f46b7",
+        "android_client_info": {
+          "package_name": "com.example.smart_traveller_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcY7H-WQq7d7XyzzvGMQ8CzTsQPglJntM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
